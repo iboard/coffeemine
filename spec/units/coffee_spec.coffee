@@ -1,4 +1,4 @@
-describe "Jacobs Monarch", ->
+describe "Coffee", ->
 
   coffee = null
 

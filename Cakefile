@@ -1,5 +1,3 @@
-INPUT_DIR   = "src"
-OUTPUT_DIR  = "public/javascript"
 
 {spawn,exec} = require "child_process"
 
