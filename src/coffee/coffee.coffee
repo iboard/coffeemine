@@ -1,0 +1,4 @@
+class @Coffee
+
+  constructor: (@taste) ->
+
